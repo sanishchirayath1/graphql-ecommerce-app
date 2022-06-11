@@ -290,7 +290,7 @@ const reviews = [
   },
 ];
 
-module.exports = {
+module.exports.db = {
   products,
   categories,
   reviews,
