@@ -104,6 +104,10 @@ let categories = [
     id: "d914aec0-25b2-4103-9ed8-225d39018d1d",
     name: "Sports",
   },
+  {
+    id: "250a5e42-ada4-4f05-aff6-381ac7a95883",
+    name: "fashion",
+  },
 ];
 
 const reviews = [
